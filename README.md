@@ -3,6 +3,7 @@
 </h1>
 
 <h3 align="center">Passionate T-Shaper developer</h3>
+<p align="right"> <a href="https://twitter.com/sxo8t" target="blank"><img src="https://img.shields.io/twitter/follow/sxo8t?logo=twitter&style=for-the-badge" alt="sxo8t" /></a> </p>
 
 - 🔭 I’m currently working on **.**
 
@@ -33,4 +34,4 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sco8t" alt="sco8t" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/sxo8t" target="blank"><img src="https://img.shields.io/twitter/follow/sxo8t?logo=twitter&style=for-the-badge" alt="sxo8t" /></a> </p>
+
