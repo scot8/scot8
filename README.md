@@ -2,7 +2,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rohan+Scott!;" />
 </h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sco8t&label=Profile%20views&color=0e75b6&style=flat" alt="sco8t" /> </p> I want to allign this in the same line
 - 🔭 I’m currently working on **.**
 
 - 🌱 I’m currently learning **Cloud, Devops, Azure AI, Vector Indexing (eg. Redis)**
