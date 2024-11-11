@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Cloud, Devops, Azure AI, Vector Indexing (eg. Redis)**
 
-- 👨‍💻 All of my projects are available at **rohanscott.ca** or **https://github.com/Sco8t?tab=repositories**
+- 👨‍💻 All of my projects are available at **www.rohanscott.ca** or **https://github.com/Sco8t?tab=repositories**
 
 - 💬 Ask me about **Backend (Web, Mobile), Deployments.**
 
