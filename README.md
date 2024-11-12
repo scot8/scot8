@@ -1,11 +1,13 @@
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rohan+Scott!;" />
+</p>
+
 # 💫 About Me:
-- 🔭 I’m currently working on **.**
+- 🌱 I’m currently working/learning **Cloud, Devops, Azure AI, Vector Indexing (eg. Redis)**
 
-- 🌱 I’m currently learning **Cloud, Devops, Azure AI, Vector Indexing (eg. Redis)**
+- 👨‍💻 All of my projects are available at **www.rohanscott.ca** or **https://github.com/Sco8t**
 
-- 👨‍💻 All of my projects are available at **www.rohanscott.ca** or **https://github.com/Sco8t?tab=repositories**
-
-- 💬 Ask me about **Backend (Web, Mobile), Deployments.**
+- 💬 Ask me about **Backend, Deployments, Cloud, Mainframe.**
 
 - 📫 How to reach me **rohansco18@gmail.com**
 
@@ -26,7 +28,3 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sco8t&label=Profile%20views&color=0e75b6&style=flat" alt="sco8t" /> </p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
