@@ -1,5 +1,13 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+- 🔭 I’m currently working on **.**
+
+- 🌱 I’m currently learning **Cloud, Devops, Azure AI, Vector Indexing (eg. Redis)**
+
+- 👨‍💻 All of my projects are available at **www.rohanscott.ca** or **https://github.com/Sco8t?tab=repositories**
+
+- 💬 Ask me about **Backend (Web, Mobile), Deployments.**
+
+- 📫 How to reach me **rohansco18@gmail.com**
 
 
 ## 🌐 Socials:
