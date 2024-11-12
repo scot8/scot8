@@ -4,7 +4,7 @@
 
 # 💫 About Me:
 
-### Recently cleared my Microsoft Certified: Azure Fundamentals (AZ-900) <p align="left">
+### Recently cleared my Microsoft Certified: Azure Fundamentals (AZ-900) exam <p align="left">
 
 👯 *I’m looking to collaborate*: **Innovative projects in Cloud and Full stack developement.**
 
