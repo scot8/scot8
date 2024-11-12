@@ -19,7 +19,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sco8t&icon=0&color=0)](https://visitcount.itsvg.in)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sco8t&label=Profile%20views&color=0e75b6&style=flat" alt="sco8t" /> </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
