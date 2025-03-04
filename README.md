@@ -12,7 +12,7 @@
 
 💬 *Ask me about*: **Full-stack development, cloud migration, accessible web design, and my experience with various database technologies and modern frameworks.**
 
-⚡ Passions & Interests: In my free time, I love exploring space......not literally yet!!! but through astronomy, space tech, and deep dives into sci-fi. I also spend time building my startups, turning ideas into reality. 🚀✨
+⚡ Passions & Interests: In my free time, I love exploring **space**......not literally yet!!! but through astronomy, space tech, and deep dives into sci-fi. I also spend time building my **startups, turning ideas into reality**. 🚀✨
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/scot8) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sxo8t) <img src="https://komarev.com/ghpvc/?username=sco8t&label=Profile%20views&color=0e75b6&style=flat" alt="sco8t" />
